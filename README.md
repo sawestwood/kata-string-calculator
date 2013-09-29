@@ -1,0 +1,1 @@
+This is an attempt at a Kata described on Roy Osherove's site - http://osherove.com/tdd-kata-1/
